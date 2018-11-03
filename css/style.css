@@ -40,3 +40,11 @@ marquee {
 #photos img {
     width: 100% !important;
 }
+
+#videos div div {
+    box-shadow: 0px 0px 5px grey;
+}
+
+#videos iframe {
+    padding: 15px;
+}
